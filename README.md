@@ -3,6 +3,8 @@
 This one-webpage, printable resume was originally found at [css-tricks.com](https://css-tricks.com/one-page-resume-site/).
 It created by [@chriscoyier](http://github.com/chriscoyier) with illustrations by [Michael Dashow](http://www.michaeldashow.com/zoom/zoom_wageslave.html).
 
+It has been reworked and documented on GitHub by [Elsa Gonsiorowski](https://github.com/gonsie).
+
 ## Adding Content
 
 This is a self-contained, single page resume.
